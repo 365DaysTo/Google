@@ -28,6 +28,26 @@ Also we should grasp the fundamental (but try and master for the end of the year
 10. Lisp
 11. Scheme
 
-Also we should complete "Free Code Camp" (we will try and get all the certifications for our linkedin and portfolio) and Code Academy.
+Also we should complete 
+
+"Free Code Camp": https://freecodecamp.org (we will try and get all the certifications for our linkedin and portfolio) and Code Academy.
 
 We can use our udemy accounts and make all the course we can in there to add certificates and expand our profiles as developers.
+
+For a more in deep learning about programming with a more hands-on approach we should do the following courses:
+
+https://www.mooc.fi/en/
+
+At the end of the day, we can make a Code Kata in codewars
+
+### Algorithms and Data Structures
+
+Let's read some more n.n
+
+1. The Algorithm Design Manual
+2. How to solve it
+
+Also we can add the following courses:
+
+1. https://www.coursera.org/specializations/algorithms
+2. http://timroughgarden.org/videos.html
