@@ -40,6 +40,23 @@ https://www.mooc.fi/en/
 
 At the end of the day, we can make a Code Kata in codewars
 
+### Go development
+
+1. https://www.youtube.com/watch?v=YS4e4q9oBaU&pp=ugMICgJlcxABGAE%3D
+2. https://www.youtube.com/watch?v=e37Q4SLC-30&list=PLV-IZMSUqzrNkcKRCw2cjKrW0a8l5qvgb
+3. https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM
+
+### Android development
+
+Let's watch some tutorial and make some projects
+
+1. https://www.youtube.com/watch?v=fis26HvvDII&pp=ugMICgJlcxABGAE%3D
+2. https://www.youtube.com/watch?v=pdYkmCcQFd8&list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
+3. https://www.youtube.com/watch?v=tyx05coXixw&list=PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y
+4. https://developer.android.com/courses
+5. https://www.youtube.com/results?search_query=android+projects+for+beginners
+6. https://www.youtube.com/results?search_query=android+projects
+
 ### Algorithms and Data Structures
 
 Let's read some more n.n
@@ -123,3 +140,58 @@ And then we have a ton of books to read:
 4. Database Management Systems
 5. Transaction Processing: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)
 6. Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World
+
+### Languages and Compilers
+
+Ok, more books, I know you're probably tired of reading a ton of books BUT it's programming, reading it's kind of the thing.
+
+1. https://craftinginterpreters.com/contents.html
+2. Compilers: Principles, Techniques, and Tools
+
+Also we can see some stuff about it
+
+https://www.edx.org/course/compilers
+
+### Distributed systems
+
+Books:
+
+1. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+2. https://www.distributed-systems.net/index.php/books/ds3/
+
+### IA & Machine Learning
+
+Now, let's watch some videos:
+
+1. https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
+2. https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+3. https://see.stanford.edu/Course/CS229
+
+### Another developer skills
+
+https://developers.google.com/learn
+
+### Cryptography for begginers
+
+1. https://www.coursera.org/learn/crypto
+2. https://www.udacity.com/course/applied-cryptography--cs387
+
+### NOW, let's work on some real projects for our profile
+
+Start by reading how to contribute to open source, here: https://opensource.guide/how-to-contribute/
+
+1. https://www.coursera.org/learn/java-programming-recommender
+2. https://projects.apache.org/
+3. https://www.google-melange.com/archive/gsoc
+
+After that, let's work on some colaborative competitions like hacktober fest and advent of code for xmas
+
+1. https://hacktoberfest.digitalocean.com/
+2. https://adventofcode.com/
+
+## Final Stage.
+
+1. Read: Cracking the coding interview & Programming Interviews Exposed
+2. Watch: https://www.coursera.org/learn/cs-tech-interview
+
+# Start applying to Google positions!!!
