@@ -98,3 +98,28 @@ After those books we can read and watch the following: https://pages.cs.wisc.edu
 
 Also, we can watch the following tutorial and build a bugged OS as a presentation card:
 
+https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
+
+### Computer Networking
+
+Let's do more reading n.n
+
+1. Computer Networking: a top down approach
+
+And watch more Mooc's
+
+https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
+
+### Databases
+
+Let's start with these videos:
+https://www.youtube.com/user/CS186Berkeley/videos
+
+And then we have a ton of books to read:
+
+1. SQL querys for mere mortals
+2. http://www.redbook.io/
+3. https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+4. Database Management Systems
+5. Transaction Processing: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)
+6. Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World
