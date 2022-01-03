@@ -13,3 +13,21 @@ Let's make a quick introduction to Computer Science, since we're trying to becom
 ### Programming
 
 We should start reading "Composing programs", then "Structure and Interpretation of Computer Programs" which is free on the internet, later on we should read "How to design programs"
+
+Also we should grasp the fundamental (but try and master for the end of the year) of:
+
+1. JavaScript
+2. C++
+3. Java
+4. CSS & HTML
+5. Ruby
+6. PHP
+7. C
+8. Perl
+9. Shell script
+10. Lisp
+11. Scheme
+
+Also we should complete "Free Code Camp" (we will try and get all the certifications for our linkedin and portfolio) and Code Academy.
+
+We can use our udemy accounts and make all the course we can in there to add certificates and expand our profiles as developers.
