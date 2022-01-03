@@ -74,3 +74,16 @@ We need to learn how to catch bugs, create tests and break our own software
 
 ### Mathematics for Computer Science
 
+Let's read some cute books:
+
+1. Professor Lovász lectures: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
+2. Mathematics for Computer Science: https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+
+And now, let's watch some courses:
+
+1. https://www.coursera.org/learn/mathematical-thinking
+2. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+3. https://www.coursera.org/specializations/discrete-mathematics
+4. https://www.coursera.org/learn/probabilistic-graphical-models
+5. https://www.coursera.org/learn/game-theory-1
+6. 
