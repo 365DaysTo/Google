@@ -49,5 +49,28 @@ Let's read some more n.n
 
 Also we can add the following courses:
 
-1. https://www.coursera.org/specializations/algorithms
-2. http://timroughgarden.org/videos.html
+1. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
+2. https://www.coursera.org/learn/algorithms-part1
+3. https://www.coursera.org/learn/algorithms-part2
+4. https://people.eecs.berkeley.edu/~jrs/61b/
+5. https://en.wikipedia.org/wiki/List_of_algorithms
+6. https://en.wikipedia.org/wiki/List_of_data_structures
+7. http://timroughgarden.org/videos.html
+
+### Computer Architecture
+
+Let's read again
+
+1. Computer Systems: A Programmer's Perspective
+2. The Elements of Computing Systems (nand2tetris)
+3. Computer Organization and Design
+
+### Testing our Code
+
+We need to learn how to catch bugs, create tests and break our own software
+
+1. https://www.udacity.com/course/software-testing--cs258
+2. https://www.udacity.com/course/software-debugging--cs259
+
+### Mathematics for Computer Science
+
