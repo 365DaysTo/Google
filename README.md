@@ -86,4 +86,15 @@ And now, let's watch some courses:
 3. https://www.coursera.org/specializations/discrete-mathematics
 4. https://www.coursera.org/learn/probabilistic-graphical-models
 5. https://www.coursera.org/learn/game-theory-1
-6. 
+
+### Operative Systems
+
+Booky books:
+
+1. Operating Systems Concepts (The dinosaur book)
+2. Moderm Operating Systems (The Tanembaum big one)
+
+After those books we can read and watch the following: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+Also, we can watch the following tutorial and build a bugged OS as a presentation card:
+
