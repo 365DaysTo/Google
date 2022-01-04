@@ -16,3 +16,5 @@ Colors in computers are RGB, Red, Green and Blue, so images are composed by dots
 How to represent videos using only 0s and 1s?
 
 Images, 30 images per second, which we know as FPS or Frames Per Seconds, also we use compression because 30 individual images per second in a 90 minutes movie, it's a huge volume of images so we need to compress that into a more manageable size.
+
+### Representative Algorithms
