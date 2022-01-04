@@ -18,3 +18,5 @@ How to represent videos using only 0s and 1s?
 Images, 30 images per second, which we know as FPS or Frames Per Seconds, also we use compression because 30 individual images per second in a 90 minutes movie, it's a huge volume of images so we need to compress that into a more manageable size.
 
 ### Representative Algorithms
+
+He makes a demostration of dividing and conquering a problem by tearing by halfs a phone books, which if we think about it, it's a good idea for an algorithm, like we take a search and then split by halves every page until the last thing we have it is the result we are looking for.
