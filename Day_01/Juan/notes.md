@@ -12,3 +12,7 @@ Anyway, he explains that computers aren't more than switches that we can turn on
 ### Colors
 
 Colors in computers are RGB, Red, Green and Blue, so images are composed by dots and every image use 24 bits for every dot, like 8 for red, 8 for green and 8 for blue.
+
+How to represent videos using only 0s and 1s?
+
+Images, 30 images per second, which we know as FPS or Frames Per Seconds, also we use compression because 30 individual images per second in a 90 minutes movie, it's a huge volume of images so we need to compress that into a more manageable size.
