@@ -19,4 +19,4 @@ Images, 30 images per second, which we know as FPS or Frames Per Seconds, also w
 
 ### Representative Algorithms
 
-He makes a demostration of dividing and conquering a problem by tearing by halfs a phone books, which if we think about it, it's a good idea for an algorithm, like we take a search and then split by halves every page until the last thing we have it is the result we are looking for.
+He makes a demostration of dividing and conquering a problem by tearing by halfs a phone books, which if we think about it, it's a good idea for an algorithm, like we take a search and then split by halves every page until the last thing we have it is the result we are looking for but all in all what he is doing it's representing an algorithm in real life.
