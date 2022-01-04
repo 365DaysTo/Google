@@ -9,7 +9,7 @@ It talks about ASCII code, bits, binary and Unicode using emojis, it's pretty co
 
 Anyway, he explains that computers aren't more than switches that we can turn on and off, and then he made a translation from that switches to binary code, and explained how ASCII code starts with the letter A and every unicode char it is represented in the chart with a number that the computer translate to bits.
 
-### Colors
+### Colors, Images and video representation
 
 Colors in computers are RGB, Red, Green and Blue, so images are composed by dots and every image use 24 bits for every dot, like 8 for red, 8 for green and 8 for blue.
 
