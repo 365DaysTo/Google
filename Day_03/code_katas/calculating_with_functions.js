@@ -40,7 +40,7 @@ function plus(x){
     }
 }
 
-function minux(x) {
+function minus(x) {
     return function(y) {
         return y - x;
     }
