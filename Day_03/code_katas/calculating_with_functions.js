@@ -54,6 +54,6 @@ function times(x){
 
 function dividedBy(x){
     return function(y) {
-        return y / x;
+        return Math.floor(y / x);
     }
 }
