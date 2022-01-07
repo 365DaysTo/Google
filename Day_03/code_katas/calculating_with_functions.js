@@ -35,7 +35,7 @@ function eight(operation) {return expression(8, operation);}
 function nine(operation) {return expression(9, operation);}
 
 function plus(x){
-    return functrion(y){
+    return function(y){
         return y + x;
     }
 }
